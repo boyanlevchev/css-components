@@ -1,0 +1,13 @@
+.avatar {
+  height: 40px;
+  border-radius: 50%;
+
+  /* If rectangular photo */
+/*   width: 40px;
+  object-fit: cover; */
+}
+
+.avatar-large {
+  height: 75px;
+  border-radius: 50%;
+}

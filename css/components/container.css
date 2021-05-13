@@ -1,0 +1,30 @@
+.container {
+  /* TODO */
+  width: 800px;
+  margin:  0 auto;
+}
+
+@media only screen and  (max-width: 900px) {
+  .container {
+    /* TODO */
+    width: 600px;
+  }
+}
+
+
+@media only screen and  (max-width: 700px) {
+  .container {
+    /* TODO */
+    width: 500px;
+  }
+}
+
+
+@media only screen and  (max-width: 500px) {
+  .container {
+    /* TODO */
+    width: 350px;
+  }
+}
+
+
